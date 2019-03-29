@@ -1,7 +1,7 @@
 {
   "name": "elm-taskboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "elm taskboard",
   "main": "index.js",
   "scripts": {
     "build": "elm make src/Main.elm",
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/NaokiM03/elm-taskboard.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "NaokiM03",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/NaokiM03/elm-taskboard/issues"
   },
