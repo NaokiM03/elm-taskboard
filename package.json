@@ -1,0 +1,19 @@
+{
+  "name": "elm-taskboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaokiM03/elm-taskboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaokiM03/elm-taskboard/issues"
+  },
+  "homepage": "https://github.com/NaokiM03/elm-taskboard#readme"
+}
