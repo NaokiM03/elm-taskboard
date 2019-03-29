@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NaokiM03/elm-taskboard/issues"
   },
-  "homepage": "https://github.com/NaokiM03/elm-taskboard#readme"
+  "homepage": "https://github.com/NaokiM03/elm-taskboard#readme",
+  "devDependencies": {
+    "elm": "^0.19.0-bugfix6"
+  }
 }
